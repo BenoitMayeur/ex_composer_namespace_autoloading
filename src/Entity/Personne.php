@@ -68,5 +68,4 @@ class Personne {
       public function setSociete($new_societe){
         $this->societe = $new_societe;
       }
-    
 }
