@@ -1,0 +1,18 @@
+{
+    "name": "app/demo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "ISL\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benoit Mayeur",
+            "email": "benoitmayeur@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.9.2"
+    }
+}
